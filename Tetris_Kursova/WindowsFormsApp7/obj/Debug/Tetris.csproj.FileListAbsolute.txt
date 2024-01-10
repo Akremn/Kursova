@@ -1,0 +1,10 @@
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\obj\Debug\Tetris.csproj.AssemblyReference.cache
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\obj\Debug\TetrisGame.TetrisForm.resources
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\GAIFo\source\repos\Tetris_Kursova\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
