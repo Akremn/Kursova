@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfApp6.UnitConverter">
+    <Position X="3.25" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.DegreesToRadiansConverter" Collapsed="true">
+    <Position X="1.25" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.RadiansToDegreesConverter" Collapsed="true">
+    <Position X="1.25" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.DegreesToGradiansConverter" Collapsed="true">
+    <Position X="5" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.DegreesToDegreesConverter" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.GradiansToDegreesConverter" Collapsed="true">
+    <Position X="5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.RadiansToGradiansConverter" Collapsed="true">
+    <Position X="5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.RadiansToRadiansConverter" Collapsed="true">
+    <Position X="1.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.GradiansToRadiansConverter" Collapsed="true">
+    <Position X="3" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.GradiansToGradiansConverter" Collapsed="true">
+    <Position X="5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Units\Angle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp6.WeightConverter" Collapsed="true">
+    <Position X="28.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WeightConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
